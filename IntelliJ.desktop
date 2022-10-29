@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=IntelliJ
+Type=Application
+Exec=/opt/IntelliJ/bin/idea.sh
+Terminal=false
+Icon=/opt/IntelliJ/bin/idea.svg
+Comment=Integrated Development Environment
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=IntelliJ
+Name[en_US]=IntelliJ

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Clion
+Type=Application
+Exec=/opt/clion/bin/clion.sh
+Terminal=false
+Icon=/opt/clion/bin/clion.svg
+Comment=Integrated Development Environment
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=Clion
+Name[en_US]=Clion
